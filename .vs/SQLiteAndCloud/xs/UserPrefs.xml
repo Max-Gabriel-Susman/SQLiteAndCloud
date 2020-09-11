@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6C0F55E4-F649-4C36-ADA2-D38BBCD9C1B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQLiteAndCloud.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteAndCloud/Constants.cs">
+    <Files>
+      <File FileName="SQLiteAndCloud/Constants.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SQLiteAndCloud" expanded="True">
+            <Node name="SQLiteAndCloud" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Constants.cs" selected="True" />
+            </Node>
+            <Node name="SQLiteAndCloud.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="SQLiteAndCloud.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SQLiteAndCloud.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SQLiteAndCloud FirstBuild="True" />
+</Properties>
