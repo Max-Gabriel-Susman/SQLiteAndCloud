@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 
 namespace SQLiteAndCloud
+
 {
     public static class TaskExtensions
     {

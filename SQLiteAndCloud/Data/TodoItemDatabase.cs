@@ -3,11 +3,11 @@ using System.Threading.Tasks;
 using System.Linq;
 using System.Collections.Generic;
 using SQLite;
-using SQLiteAndCloud.Models;    
+using SQLiteAndCloud.Models;
+using SQLiteAndCloud.Views;
 
 
-namespace SQLiteAndCloud
-
+namespace SQLiteAndCloud.Data
 {
     public class TodoItemDatabase
     {

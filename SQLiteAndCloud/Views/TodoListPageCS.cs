@@ -2,7 +2,7 @@
 using SQLiteAndCloud.Models;
 using SQLiteAndCloud.Views;
 
-namespace Todo
+namespace SQLiteAndCloud.Views
 {
     public class TodoListPageCS : ContentPage
     {

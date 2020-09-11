@@ -1,7 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
+using SQLiteAndCloud.Models;
 
-namespace Todo
+namespace SQLiteAndCloud.Views
 {
     public partial class TodoListPage : ContentPage
     {

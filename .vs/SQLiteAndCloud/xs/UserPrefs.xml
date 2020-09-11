@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{6C0F55E4-F649-4C36-ADA2-D38BBCD9C1B8}|Default">
   <MonoDevelop.Ide.ItemProperties.SQLiteAndCloud.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteAndCloud/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteAndCloud/Data/TodoItemDatabase.cs">
     <Files>
-      <File FileName="SQLiteAndCloud/Constants.cs" Line="23" Column="52" />
-      <File FileName="SQLiteAndCloud/TaskExtensions.cs" />
+      <File FileName="SQLiteAndCloud/Constants.cs" Line="31" Column="1" />
+      <File FileName="SQLiteAndCloud/TaskExtensions.cs" Line="5" Column="1" />
       <File FileName="SQLiteAndCloud/App.xaml.cs" Line="13" Column="21" />
       <File FileName="SQLiteAndCloud/Models/TodoItem.cs" />
       <File FileName="SQLiteAndCloud/Views/TodoItemPage.xaml" />
@@ -12,18 +12,18 @@
       <File FileName="SQLiteAndCloud/Views/TodoListPage.xaml" />
       <File FileName="SQLiteAndCloud/Views/TodoListPage.xaml.cs" />
       <File FileName="SQLiteAndCloud/Views/TodoListPageCS.cs" />
-      <File FileName="SQLiteAndCloud/App.xaml" />
-      <File FileName="SQLiteAndCloud/AssemblyInfo.cs" />
+      <File FileName="SQLiteAndCloud/App.xaml" Line="11" Column="15" />
+      <File FileName="SQLiteAndCloud/Data/TodoItemDatabase.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SQLiteAndCloud" expanded="True">
             <Node name="SQLiteAndCloud" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="App.xaml" expanded="True">
-                <Node name="App.xaml.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="TodoItemDatabase.cs" selected="True" />
               </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

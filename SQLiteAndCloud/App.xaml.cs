@@ -2,9 +2,12 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using SQLiteAndCloud.Data;
+using SQLiteAndCloud.Views;
+using SQLiteAndCloud.Models;
+
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
-namespace Todo
+namespace SQLiteAndCloud
 {
     public partial class App : Application
     {

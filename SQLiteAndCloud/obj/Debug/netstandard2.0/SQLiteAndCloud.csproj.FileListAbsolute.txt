@@ -1,6 +1,14 @@
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/bin/Debug/netstandard2.0/SQLiteAndCloud.deps.json
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/bin/Debug/netstandard2.0/SQLiteAndCloud.dll
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/bin/Debug/netstandard2.0/ref/SQLiteAndCloud.dll
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/bin/Debug/netstandard2.0/SQLiteAndCloud.pdb
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/Views/TodoItemPage.xaml.g.cs
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/Views/TodoListPage.xaml.g.cs
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/SQLiteAndCloud.AssemblyInfoInputs.cache
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/SQLiteAndCloud.AssemblyInfo.cs
 /Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/SQLiteAndCloud.csproj.CoreCompileInputs.cache
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/SQLiteAndCloud.dll
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/ref/SQLiteAndCloud.dll
+/Users/MGS/Projects/SQLiteAndCloud/SQLiteAndCloud/obj/Debug/netstandard2.0/SQLiteAndCloud.pdb
